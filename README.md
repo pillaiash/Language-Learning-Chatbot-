@@ -1,5 +1,3 @@
-# Language-Learning-Chatbot-
-
 # Language Learning Chatbot using OpenRouter API
 
 This project is an AI-powered chatbot that helps users learn a new language through real-time, scene-based conversations. It uses OpenRouter's LLM API for intelligent responses, detects grammar or vocabulary mistakes, logs them to a local database, and summarizes feedback to help users improve over time.
