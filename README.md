@@ -24,16 +24,19 @@ This project is an AI-powered chatbot that helps users learn a new language thro
 ### 1. Clone the Repository
 
 ## Install Dependencies
+
 Make sure Python 3.8+ is installed.
 pip install -r requirements.txt
 
 
 ## Set Your OpenRouter API Key
+
 Open chatbot_ui.py and replace the line:
 API_KEY = "your_openrouter_api_key_here"
 
 
 ## Run the Chatbot
+
 python chatbot_ui.py
 
 
