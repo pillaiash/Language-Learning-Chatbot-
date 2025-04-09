@@ -10,7 +10,6 @@ This project is an AI-powered chatbot that helps users learn a new language thro
 - Mistake detection and correction feedback
 - Stores chats and mistakes in a local SQLite database
 - Clean Gradio-based user interface
-- Mistake summary viewer
 
 ## 🛠 Technologies Used
 
